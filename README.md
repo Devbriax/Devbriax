@@ -1,13 +1,14 @@
 ## Howzit I'm Brian 👋
 
-Welcome to my GitHub profile! I'm a Frontend Web developer who loves coding, passionate about learning new technologies, and contributing to open-source projects. 
-Here's a bit about me:
+Welcome to my GitHub profile! 
+I'm a Frontend Web developer who loves coding, passionate about learning new technologies, and contributing to open-source projects. 
 
+Here's a bit about me:
 ## 🔧 Technologies & Tools
 
-[](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+[Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 
-[](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+[JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 [React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
@@ -51,7 +52,7 @@ Here's a bit about me:
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Email: [your.email@example.co](mailto:your.email@example.com)
+- LinkedIn: [Profile](https://www.linkedin.com/in/your-profile)
+- Email: [Briax](mailto:your.brianjlm@outlook.com)
 - Whatsapp: [Contact Me](+27682125320)
 
