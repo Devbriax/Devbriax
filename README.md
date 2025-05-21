@@ -47,11 +47,7 @@ Here's a bit about me:
 - Responsive design through media queries
 
 ## 📈 GitHub Stats
-
 [](https://github-readme-stats.vercel.app/api?username=Devbriax&show_icons=true&theme=radical)
-https://www.notion.so/Coding-Projects-140d1a78594c80c19984e64895e1a5f0?pvs=4#181d1a78594c80b199f7e165f3f17018
-
-https://www.notion.so/Coding-Projects-140d1a78594c80c19984e64895e1a5f0?pvs=4#181d1a78594c80f9884de5a1b7ebc483
 
 ## 📫 How to Reach Me
 
