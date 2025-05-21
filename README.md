@@ -7,7 +7,7 @@ Here's a bit about me:
 
 [](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 
-[JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+[](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 [React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
