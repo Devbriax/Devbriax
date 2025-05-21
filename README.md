@@ -5,7 +5,7 @@ Here's a bit about me:
 
 ## 🔧 Technologies & Tools
 
-[Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+[](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 
 [JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
