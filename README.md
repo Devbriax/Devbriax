@@ -57,5 +57,4 @@ Combining academic knowlegde with hands-on experience in Web development & Softw
 
 - LinkedIn: [Profile](https://www.linkedin.com/in/your-profile)
 - Email: [Briax](mailto:your.brianjlm@outlook.com)
-- Whatsapp: [Contact Me](+27682125320)
 
