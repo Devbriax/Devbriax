@@ -1,10 +1,11 @@
 ## Howzit I'm Brian 👋
 
 Welcome to my GitHub profile! 
-I'm a Frontend Web developer who loves coding, passionate about learning new technologies, and contributing to open-source projects. 
+I'm a Junior Frontend Web developer who loves coding, passionate about learning new technologies, and contributing to open-source projects. 
+Combining academic knowlegde with hands-on experience in Web development & Software development. A collaborative mindset approach with an eagerness to contribute innovative solutions.  
 
-Here's a bit about me:
-## 🔧 Technologies & Tools
+## Here's a bit about me:
+### 🔧 Technologies & Tools
 
 [Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 
@@ -24,7 +25,10 @@ Here's a bit about me:
 
 [PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 
-[MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+[MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
+
+[Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+
 
 ## 🌱 Currently Learning
 
