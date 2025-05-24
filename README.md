@@ -8,26 +8,19 @@ Combining academic knowlegde with hands-on experience in Web development & Softw
 ### 🔧 Technologies & Tools
 
 [Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-
 [JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-
-[React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
 [Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-
 [Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-
 [Atlassian](https://img.shields.io/badge/-Atlassian-333333?style=flat&logo=atlassian)
-
 [CSS3](https://img.shields.io/badge/-Css3-333333?style=flat&logo=css3)
-
 [HTML5](https://img.shields.io/badge/-Html5-333333?style=flat&logo=html5)
-
 [PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-
 [MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
-
 [Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+[Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+[Drupal](https://img.shields.io/badge/-Drupal-333333?style=flat&logo=drupal)
+[CraftCMS](https://img.shields.io/badge/-CrafCMS-333333?style=flat&logo=craftcms)
+[Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
 
 
 ## 🌱 Currently Learning
